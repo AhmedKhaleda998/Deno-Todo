@@ -39,7 +39,7 @@ The project structure is organized as follows:
   - `routes/`: Express route definitions.
   - `helpers`: MongoDB connection setup.
   - `app.ts`: Main application file where Oak is configured.
-- `frontend-app\`: Contains the React frontend source code.
+- `frontend-app/`: Contains the React frontend source code.
   - `src/`: React components and application logic.
   - `public/`: Public assets and HTML template.
 - `README.md`: Project documentation (you're reading it!).
